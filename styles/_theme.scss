@@ -1,0 +1,115 @@
+$navy: #24344e !default;
+$gray: #666 !default;
+$white: #fff !default;
+$darkgray: #999 !default;
+$lightgray: #bbb !default;
+$stripeblue: #A51E25 !default;
+$orange: #FAAD14 !default;
+$red: #F5222D !default;
+$green: #52C41A !default;
+$blue: #1890FF !default;
+$lightorange: #f2c200 !default;
+$lightred: #ff625c !default;
+$lightgreen: #6dcc50 !default;
+$lightblue: #4c97ff !default;
+$lightnavy: #ccd0d6 !default;
+$gainsboro: #dfdfdf !default;
+$whitesmoke: #f5f5f5 !default;
+$ghostwhite: #f8f8f8 !default;
+$wathet: #f3fafd !default;
+$platinum: #e5e9ee !default;
+$heavygray: #eee !default;
+$thingray: #f3f6f9 !default;
+$transparent: transparent !default;
+
+$color-border: #dfdfdf;
+$color-text: #666666;
+$default-input-width: 450px;
+$item-background: #f8f8f8 !default;
+// dashboard-frame variables
+//header hover 背景色
+$platform-drop-down-bg: rgba(83, 134, 240, .06);
+//header dropDown item hover 背景色
+$ant-dropdown-menu-item-bg: rgba(83, 134, 240, .06);
+$layout-content-bg: #f0f4fb;
+// antd variables
+$border-color: #dddee1 !default;
+$border-radius: 3px !default;
+$border-divide: #e9eaec !default;
+// customer settings
+$light-primary-color: #5cadff !default;
+$dark-primary-color: #2b85e4 !default;
+$info-color: #1890FF !default;
+$success-color: #34B37E !default;
+$warning-color: #FAAD14 !default;
+$error-color: #F5222D !default;
+$default-color: #999;
+
+// antd variables
+$primary-color: #A51E25;
+$primary-hover-color: rgba(27, 122, 255, 0.8);
+$background-color-light: hsv(0, 0, 96%); // background of header and selected item
+$background-color-base: hsv(0, 0, 94%); // Default grey background color
+$padding-lg: 16px !default;
+$font-size-base: 14px !default;
+$font-size-micro: 10px;
+$font-size-small: 12px;
+$font-size-normal: 14px;
+$font-size-middle: 16px;
+$font-size-large: 18px;
+$font-size-icon-medium: 26px;
+$font-size-icon-large: 32px;
+$layout-body-background: #f2f1f6 !default;
+$breadcrumb-last-item-color : #666 !default;
+$icon-url: 'https://at.alicdn.com/t/font_570092_fjzm8gapwfa5g66r';
+// 组件配置
+// panel
+$panel-label-width: 8em !default;
+$panel-label-margin: 1em !default;
+$panel-label-padding: 16px !default;
+// table
+$table-custom-active-bg: lighten($primary-color, 35%) !default;
+$table-custom-max-height: 280px !default;
+// $table-padding-vertical: 8px !default;
+// $table-padding-horizontal: 8px !default;
+$table-header-bg: #f5f5f5 !default;
+$table-th-color: #999999 !default;
+// button
+$btn-height-base: 32px !default;
+$btn-height-sm: 28px !default;
+$btn-padding-sm: 0 15px !default;
+// 分页器
+$pagination-item-size: 28px !default;
+$pagination-vertical-margin: 12px 0 !default;
+// input
+$input-height-lg: 40px !default;
+$input-height-base: 32px !default;
+$input-height-sm: 28px !default;
+$input-placeholder-color: #b2b2b2 !default;
+$input-color: #333333 !default;
+// form
+$form-item-margin-bottom: 20px !default;
+$label-color: #666666 !default;
+// filter
+$filter-padding: 0 !default;
+// state-tag
+$state-tag-size: 6px !default;
+$state-error-color: #f08f00 !default;
+$state-normal-color: #47a800 !default;
+$state-close-color: #999999 !default;
+$state-tag-padding: 5px !default;
+$tag-dot-vertical-margin: 0 !default;
+$tag-dot-horizontal-margin: 5px !default;
+
+$link-color: #A51E25 !default;
+$link-hover-color: #b33d3f !default;
+$form-item-label-width: 100px;
+$form-item-line-height: 100px;
+$form-item-control-width: 100px;
+
+//侧边栏选中背景色
+$ant-menu-item-selected-bg: $primary-color;
+
+$page-background-color: #f5f4f5;
+$padding-small: 12px;
+$pipechina-black-color: #000000 !default;

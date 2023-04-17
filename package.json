@@ -1,0 +1,22 @@
+{
+  "name": "rspack-react-starter",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.21.0",
+    "@terminus/bricks": "^1.0.44",
+    "antd": "3.26.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-refresh": "^0.14.0"
+  },
+  "devDependencies": {
+    "@rspack/cli": "latest",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0"
+  }
+}
