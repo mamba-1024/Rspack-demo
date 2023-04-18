@@ -21,6 +21,9 @@ module.exports = {
     node: true,
   },
   builtins: {
+    presetEnv: {
+      targets: ['> 1%', 'last 2 versions', 'not dead']
+    },
     html: [{ template: './index.html' }],
     react: {
       development: true,
